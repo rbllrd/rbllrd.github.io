@@ -51,9 +51,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Course Staff
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.course-staff reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
